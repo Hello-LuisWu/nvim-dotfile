@@ -1,5 +1,6 @@
 return {
     "goolord/alpha-nvim",
+    version = "bc5d57d",
     event = "VimEnter",
     enabled = true,
     keys = {

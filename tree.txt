@@ -1,0 +1,44 @@
+Permissions Size User Date Modified Name
+drwxr-xr-x@    - luis  4 Mar 19:40  .
+.rw-r--r--@  131 luis  1 Mar 23:19  ├── init.lua
+.rw-r--r--@ 4.7k luis  4 Mar 19:28  ├── lazy-lock.json
+drwxr-xr-x@    - luis  3 Mar 21:16  ├── lua
+drwxr-xr-x@    - luis  3 Mar 13:03  │   ├── config
+.rw-r--r--@ 3.6k luis 28 Feb 22:56  │   │   ├── autocmds.lua
+.rw-r--r--@  13k luis  1 Mar 23:05  │   │   ├── hi.lua
+.rw-r--r--@ 9.4k luis  4 Mar 00:51  │   │   ├── keymaps.lua
+.rw-r--r--@ 1.5k luis  4 Mar 00:29  │   │   ├── lazy.lua
+.rw-r--r--@ 9.9k luis  3 Mar 14:35  │   │   └── options.lua
+drwxr-xr-x@    - luis  4 Mar 19:10  │   └── plugins
+.rw-r--r--@ 2.1k luis  4 Mar 02:38  │       ├── align.lua
+.rw-r--r--@ 3.6k luis  4 Mar 19:32  │       ├── alpha.lua
+.rw-r--r--@  179 luis 10 Feb 16:13  │       ├── autopairs.lua
+.rw-r--r--@ 8.4k luis  4 Mar 19:30  │       ├── bufferline.lua
+.rw-r--r--@ 1.7k luis  3 Mar 21:37  │       ├── catppuccin.lua
+.rw-r--r--@ 8.3k luis  3 Mar 20:05  │       ├── cmp.lua
+.rw-r--r--@ 2.4k luis  3 Mar 00:34  │       ├── colorizer.lua
+.rw-r--r--@ 2.7k luis 10 Feb 21:42  │       ├── comment.lua
+.rw-r--r--@  680 luis  9 Feb 16:44  │       ├── conform.lua
+.rw-r--r--@ 5.4k luis  1 Mar 01:35  │       ├── flash.lua
+.rw-r--r--@ 1.4k luis  4 Mar 02:24  │       ├── lazygit.lua
+.rw-r--r--@ 7.8k luis  3 Mar 20:33  │       ├── lsp.lua
+.rw-r--r--@ 7.9k luis  4 Mar 13:48  │       ├── lualine.lua
+.rw-r--r--@ 2.3k luis 11 Feb 12:28  │       ├── md.lua
+.rw-r--r--@ 3.8k luis 11 Feb 12:24  │       ├── mini.indentscope.lua
+.rw-r--r--@  19k luis  4 Mar 04:19  │       ├── neotree.lua
+.rw-r--r--@ 6.2k luis  9 Feb 20:08  │       ├── noice.lua
+.rw-r--r--@ 7.0k luis  3 Mar 20:52  │       ├── surround.lua
+.rw-r--r--@ 1.4k luis  9 Feb 16:44  │       ├── telescope.lua
+.rw-r--r--@    0 luis  4 Mar 19:10  │       ├── test.s
+.rw-r--r--@ 4.8k luis 25 Feb 19:19  │       ├── todo-comments.lua
+.rw-r--r--@ 2.7k luis 12 Feb 21:08  │       ├── toggleterm.lua
+.rw-r--r--@ 3.4k luis 10 Feb 21:20  │       ├── treesutter.lua
+.rw-r--r--@ 1.3k luis  3 Mar 03:03  │       ├── trouble.lua
+.rw-r--r--@  482 luis 10 Feb 14:10  │       ├── ufo.lua
+.rw-r--r--@ 8.0k luis  3 Mar 00:52  │       ├── which-key.lua
+.rw-rw-rw-@  835 luis  4 Mar 00:32  │       └── yazi.lua
+.rw-r--r--@    0 luis  3 Mar 21:05  ├── README.md
+drwxr-xr-x@    - luis 28 Feb 23:44  ├── spell
+.rw-r--r--@   10 luis  3 Mar 12:55  │   ├── en.utf-8.add
+.rw-r--r--@   35 luis  3 Mar 12:54  │   └── en.utf-8.add.spl
+.rw-r--r--@    0 luis  4 Mar 19:40  └── tree.txt
