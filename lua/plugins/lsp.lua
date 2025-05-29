@@ -2,9 +2,16 @@ return {
     {
         "neovim/nvim-lspconfig",
         dependencies = {
-            "williamboman/mason.nvim",           -- LSP 安装工具
-            "williamboman/mason-lspconfig.nvim", -- 自动安装 LSP
-        },
+            {
+                "williamboman/mason.nvim",          -- LSP 安装工具
+                  version = "^1.0.0"
+ 
+            },
+            {
+                "williamboman/mason-lspconfig.nvim", -- 自动安装 LSP
+                version = "^1.0.0"
+            }
+            },
         event = { "BufReadPre", "BufNewFile" },  -- 在打开文件时加载
         config = function()
             local lspconfig = require("lspconfig")
